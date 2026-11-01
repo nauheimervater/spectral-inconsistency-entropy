@@ -1,0 +1,21 @@
+{
+  "title": "Spectral Inconsistency Entropy: Distinguishing Local from Systemic Contradictions in Pairwise Comparison Graphs",
+  "description": "Scale- and potential-invariant Spectral Inconsistency Entropy (H) over the cycle-restricted 1-up-Laplacian for pairwise comparison graphs, including the universal Eckmann degeneracy proof on K_n, exact Dirichlet-Digamma isotropic asymptote, and cycle-leverage single-fault localization.",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Nauheimer, Thomas",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Combinatorial Hodge Theory",
+    "HodgeRank",
+    "Spectral Entropy",
+    "Pairwise Comparisons",
+    "Simplicial Laplacian",
+    "Fault Localization"
+  ]
+}

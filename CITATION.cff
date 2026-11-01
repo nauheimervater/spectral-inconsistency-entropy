@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or paper, please cite it as below."
+authors:
+  - family-names: "Nauheimer"
+    given-names: "Thomas"
+    email: "nauheimer.t@gmail.com"
+title: "Spectral Inconsistency Entropy: Distinguishing Local from Systemic Contradictions in Pairwise Comparison Graphs"
+version: 1.0.0
+date-released: 2026-11-01
+url: "https://github.com/nauheimervater/spectral-inconsistency-entropy"
+repository-code: "https://github.com/nauheimervater/spectral-inconsistency-entropy"
+license: MIT
+keywords:
+  - combinatorial Hodge theory
+  - HodgeRank
+  - pairwise comparisons
+  - spectral entropy
+  - 1-up-Laplacian
+  - fault localization
